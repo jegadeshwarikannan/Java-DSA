@@ -7,5 +7,5 @@ Rebuild my Java and DSA skills.
 ## Current Focus
 
 - Java fundamentals
-- Arrays
+- DSA
 - Problem-solving
